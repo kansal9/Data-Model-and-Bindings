@@ -12,4 +12,4 @@ find_package(ElementsProject)
 #                         elements_project(MyProject 1.0 USE Element 3.9)
 #===============================================================================
 
-elements_project(DmProject 1.0 USE Elements 5.10.0 ST_DataModelTools 8.0.3 LE3_2D_MASS_WL_KS 2.4.0)
+elements_project(DmProject 1.0 USE ST_DataModelTools 8.0.3 LE3_2D_MASS_WL_KS 2.4.0)
